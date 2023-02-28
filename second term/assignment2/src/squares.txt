@@ -1,0 +1,40 @@
+2  Old Kent Road  600
+4  Whitechapel Road  600
+7  The Angel Islington  1000
+9  Euston Road  1000
+10  Pentonville Road  1200
+12  Pall Mall  1400
+14  Whitehall  1400
+15  Northumberland Avenue  1600
+17  Bow Street  1800
+19  Marlborough Street  1800
+20  Vine Street  2000
+22  The Strand 2200
+24  Fleet Street  2200
+25  Trafalgar Square  2400
+27  Leicester Square  2600
+28  Coventry Street  2600
+30  Piccadilly  2800
+32  Regent Street  3000
+33  Oxford Street  3000
+35  Bond Street  3200
+38  Park Lane  3500
+40  Mayfair  4000
+6  Kings Cross Station  2000
+16  Marylebone Station  2000
+26  Fenchurch St Station  2000
+36  Liverpool Street Station  2000
+13  Electric Company  1500
+29  Water Works  1500
+1  Go
+3  Community Chest
+5  Ýncome Tax
+8  Chance
+11  Jail
+18  Community Chest
+21  Free Parking
+23  Chance
+31  Go To Jail
+34  Community Chest
+37  Chance
+39  Super Tax
